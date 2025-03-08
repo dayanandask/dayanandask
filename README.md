@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently student at CMRIT banglore<br>🤝 I’m looking for help with<br>🌱 I’m currently learning web development and DSA<br>💬 Ask me about Frontend development and java DSA<br>⚡reach me at : toxxieee@gmail.com
+🔭 I’m currently student at CMRIT banglore<br>🌱 I’m currently learning web development and DSA<br>💬 Ask me about Frontend development and java DSA<br>⚡reach me at : toxxieee@gmail.com
 
 
 ## 🌐 Socials:
