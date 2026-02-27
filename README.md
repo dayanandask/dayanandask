@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpeg" width="100%" />
+  <img src="bnner.jpeg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dayananda S K</h1>
@@ -126,12 +126,11 @@ Smart productivity and memory-support application.
 
 ---
 
-## 🔥 Top Languages
+<h2 align="center">🔥 Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanandask&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanandask&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
