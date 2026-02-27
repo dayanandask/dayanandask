@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Dayananda S K</h1>
 
 <h3 align="center">
@@ -11,6 +15,10 @@
   <a href="https://linkedin.com/in/your-link-here">
     <img src="https://img.shields.io/badge/LinkedIn-Add%20Link%20Later-blue?style=for-the-badge&logo=linkedin">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dayanandask&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -32,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
-📊 Pandas • NumPy • Matplotlib • Seaborn • Feature Engineering • Model Building
+📊 Pandas • NumPy • Matplotlib • Seaborn • Feature Engineering
 📈 Time Series Forecasting • Predictive Modeling • Data Analysis
 
 ---
@@ -48,7 +56,7 @@
 ### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode,docker" />
 </p>
 
 ---
@@ -63,7 +71,7 @@
 
 ### 📊 Retail Demand Intelligence (AI/ML)
 
-Machine learning system for analyzing and forecasting retail demand using real-world datasets.
+Machine learning system for analyzing and forecasting retail demand.
 
 🔗 https://github.com/dayanandask/retail-demand-intelligence
 
@@ -71,7 +79,7 @@ Machine learning system for analyzing and forecasting retail demand using real-w
 
 ### 🍲 Recipe Sharing Platform (MERN)
 
-Full-stack web application with authentication, CRUD operations, and backend APIs.
+Full-stack application with authentication and REST APIs.
 
 🔗 https://github.com/dayanandask/recipe-sharing-platform
 
@@ -79,7 +87,7 @@ Full-stack web application with authentication, CRUD operations, and backend API
 
 ### 🤝 NeighboursCare Platform
 
-Community-based support platform enabling local assistance and communication.
+Community-based support platform for local assistance.
 
 🔗 https://github.com/dayanandask/neighbourscare-platform
 
@@ -87,7 +95,7 @@ Community-based support platform enabling local assistance and communication.
 
 ### 💬 Comment Reader
 
-Tool for processing and analyzing comment data efficiently.
+Tool for processing and analyzing comment data.
 
 🔗 https://github.com/dayanandask/Comment-Rader
 
@@ -95,7 +103,7 @@ Tool for processing and analyzing comment data efficiently.
 
 ### 📚 KodeBank
 
-Developer knowledge and resource management platform.
+Developer knowledge/resource management platform.
 
 🔗 https://github.com/dayanandask/KodeBank
 
@@ -122,6 +130,14 @@ Smart productivity and memory-support application.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanandask&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dayanandask/dayanandask/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
