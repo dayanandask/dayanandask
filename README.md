@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4d4d,15:ffa64d,30:ffff66,45:66ff66,60:66b3ff,75:b366ff,100:ff66cc&height=50&section=header&text=🏭%20WELCOME%20TO%20MY%20PROJECT%20FACTORY&fontSize=22&fontColor=000000&animation=blinking&fontStyle=italic" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4d4d,15:ffa64d,30:ffff66,45:66ff66,60:66b3ff,75:b366ff,100:ff66cc&height=50&section=header&text=🏭%20WELCOME%20TO%20MY%20VERSION%20CONTROL&fontSize=22&fontColor=000000&animation=blinking&fontStyle=italic" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dayananda S K</h1>
